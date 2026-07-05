@@ -18,3 +18,4 @@ I'm currently building engineering projects in Python to strengthen my understan
 - Engineering Mathematics
 - Software Development
 - Orbital Dynamics
+- CAD on Fusion 360
