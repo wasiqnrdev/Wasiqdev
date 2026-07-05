@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Wasiqdev
-- 👀 I’m interested in python and web development
+- 👀 I’m interested in python
 - 🌱 I’m currently learning python libraries
