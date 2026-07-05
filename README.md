@@ -12,11 +12,6 @@ I'm currently building engineering projects in Python to strengthen my understan
 - 📊 Scientific Computing
 - ⚙️ CAD (Fusion 360)
 
-## Featured Projects
-
-- 🚀 Projectile Motion Simulator
-- 🛰️ Orbital Mechanics Calculator
-
 ## Currently Learning
 
 - Numerical Methods
